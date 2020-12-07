@@ -17,3 +17,6 @@ soy
 rebelde
 
 
+funcion saludo(){
+	print hola mundo
+}
