@@ -10,7 +10,7 @@ confilctos
 desde
 izquierda
 otro usuario con otra funcion
-generando
+modificando linea
 conflicto
 por que
 soy
