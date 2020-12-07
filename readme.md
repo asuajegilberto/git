@@ -17,6 +17,6 @@ soy
 rebelde
 
 
-funcion saludo(){
-	print hola mundo
+funcion saludoChino(){
+	print 你好!!
 }
