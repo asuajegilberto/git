@@ -9,4 +9,11 @@ generando
 confilctos
 desde
 izquierda
+otro usuario con otra funcion
+generando
+conflicto
+por que
+soy
+rebelde
+
 
